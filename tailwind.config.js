@@ -13,6 +13,14 @@ module.exports = {
         "mobile-pattern": "url('/src/assets/pattern-background-mobile.svg')",
       },
     },
+    backgroundSize: {
+      auto: "auto",
+      cover: "cover",
+      contain: "contain",
+      "50%": "50%",
+      100: "100%",
+      16: "4rem",
+    },
     colors: {
       transparent: "transparent",
       current: "currentColor",
@@ -36,9 +44,7 @@ module.exports = {
       black: colors.black,
       white: colors.white,
       gray: colors.trueGray,
-      indigo: colors.indigo,
       red: colors.red,
-      yellow: colors.amber,
     },
     boxShadow: {
       "3xl_purple": "0px 24px 26px 1px rgba(221,219,250,1)",
