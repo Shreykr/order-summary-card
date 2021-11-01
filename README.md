@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Order summary solution](https://github.com/Shreykr/order-summary-card)
+- Live Site URL: [Summary Card](https://order-summary-component-1.netlify.app/)
 
 ## My process
 
@@ -40,19 +40,19 @@ Users should be able to:
 - Flexbox
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
-- [Styled Components](https://tailwindcss.com/) - For styles
+- [Tailwind CSS](https://tailwindcss.com/) - For styles
 
 ### What I learned
 
 - Using React functional components
 - Using Tailwind CSS utilies and custom properties
 - Using Tailwind CSS to build a responsive card component
+- Optimising the project to get better Lighthouse scores
 
 ### Useful resources
 
-- [Example resource 1](https://tailwindcss.com/docs) - This helped me for referring to everything related to Tailwind CSS. I really liked this pattern and will use it going forward.
+- [Tailwind CSS docs](https://tailwindcss.com/docs) - This helped me for referring to everything related to Tailwind CSS. I really liked this pattern and will use it going forward.
 
 ## Author
 
-- Website - [Shreyas K R]
 - Frontend Mentor - [@Shreykr](https://www.frontendmentor.io/profile/Shreykr)
